@@ -1,0 +1,201 @@
+therapist_name,specialty,total_visits,revenue,avg_outcome_score
+Ryan Hunter,Pediatric,39,6362.12,67.26
+Sarah Torres,Pediatric,37,6297.03,66.92
+Lisa Gutierrez,Sports Rehab,36,5925.01,70.42
+Cynthia Moran,Ortho Rehab,38,5857.42,68.03
+Susan Hopkins,Sports Rehab,32,5717.78,64.91
+Tonya Mendez,Ortho Rehab,29,5588.58,70.52
+Michael Gray,Neuro Rehab,32,5499.97,65.72
+Tina Hutchinson,Sports Rehab,34,5464.44,79.53
+Annette Rice,Pediatric,34,5461.11,72.41
+Rachel Smith,Pediatric,33,5445.03,70.45
+Krystal Love,Ortho Rehab,35,5439.6,71.91
+Benjamin Wright,Ortho Rehab,34,5405.52,69.15
+Megan Brown,Ortho Rehab,32,5342.23,70.56
+Monique Fields,Neuro Rehab,34,5338.18,70.24
+Lisa Hudson,Pediatric,30,5333.53,68.47
+Nicholas Howell,Ortho Rehab,32,5327.9,73.78
+Jonathan Morris,Ortho Rehab,30,5320.66,70.93
+Jessica Rodriguez,Pediatric,31,5291.36,70.45
+Jared Harris DDS,Neuro Rehab,32,5244.29,69.16
+Michelle Rodriguez,Neuro Rehab,30,5190.71,77.03
+Carlos Lewis,Pediatric,32,5183.84,75.91
+Anne Dixon,Ortho Rehab,31,5173.11,73.55
+Virginia Cannon,Ortho Rehab,31,5170.39,70.94
+Alexander Green,Ortho Rehab,30,5159.68,70.33
+Rachel Moore,Neuro Rehab,30,5154.98,67.77
+Michelle Brown,Sports Rehab,30,5151.86,70.97
+Tommy Baker,Neuro Rehab,30,5151.65,67.2
+Christian Munoz,Pediatric,30,5150.46,70.77
+Jacqueline Stuart,Sports Rehab,30,5118.87,75.07
+Joseph Burns,Sports Rehab,32,5109.86,73.28
+Katie Kline,Pediatric,32,5100.64,67.75
+Travis Hoover,Neuro Rehab,31,5084.97,70.29
+Kristen Powell,Pediatric,31,5068.33,73.97
+Larry Garcia,Neuro Rehab,28,5036.9,67.04
+Pam Booth,Ortho Rehab,29,4974.66,76.17
+Mary Fleming,Pediatric,29,4962.27,69.03
+Joseph Kelly,Pediatric,29,4961.78,72.34
+Susan Munoz,Pediatric,32,4955.55,66.97
+Douglas Boyd,Neuro Rehab,30,4946.14,74.47
+Felicia Ortega,Sports Rehab,31,4933.06,72.32
+Justin Conner,Ortho Rehab,28,4911.31,73.14
+Zachary Patton,Ortho Rehab,30,4900.85,73.27
+Bryan Lee,Pediatric,28,4885.25,67.29
+Michael Rice,Pediatric,28,4884.25,67.93
+Johnathan Wallace,Neuro Rehab,28,4878.88,69.64
+Amanda Prince,Neuro Rehab,30,4789.94,75.63
+Sandra Hunter,Ortho Rehab,26,4774.43,66.58
+Cassandra Powers,Neuro Rehab,29,4750.52,70.03
+James Rice,Neuro Rehab,28,4739.34,67.96
+Andrew Mcmillan,Pediatric,28,4722.91,70.25
+Rebecca Smith,Pediatric,28,4704.1,69.07
+Julie Ramirez,Neuro Rehab,30,4697.93,68.9
+Misty Parker,Ortho Rehab,29,4696.73,71.97
+Anthony Kelley,Neuro Rehab,28,4692.49,67.61
+Julie Martin,Pediatric,28,4691.35,71.29
+Holly Phillips,Neuro Rehab,29,4688.88,71.03
+Frederick Estrada,Ortho Rehab,26,4659.65,69.73
+Cody Fox,Sports Rehab,30,4653.78,70.17
+Edward Norris,Ortho Rehab,26,4615.22,70.23
+Victor Fleming,Neuro Rehab,28,4569.73,68.5
+Rachael Moses,Ortho Rehab,26,4563.59,72.69
+Stephanie Smith,Sports Rehab,27,4554.93,69.93
+Michelle Walker,Sports Rehab,28,4547.93,66.89
+Bobby Anderson,Ortho Rehab,32,4542.23,64.97
+Juan Goodwin,Sports Rehab,25,4510.36,60.76
+Charles Wilson,Pediatric,26,4505.43,65.73
+Laurie Peters,Sports Rehab,26,4495.98,70.23
+Sara Hawkins,Pediatric,27,4494.21,75.93
+Donna Robinson,Pediatric,28,4493.34,68.64
+Stephen Brown,Pediatric,25,4467.08,73.44
+Lori Snyder,Ortho Rehab,27,4466.04,67.63
+Lisa Key,Sports Rehab,27,4458.02,69.33
+Jennifer Evans,Sports Rehab,26,4446.77,63.73
+Brittany Rogers,Pediatric,29,4442.0,68.76
+Jeffrey Gray,Neuro Rehab,29,4400.26,70.55
+Jason Kelly DVM,Sports Rehab,27,4395.63,68.93
+Holly Lawrence,Neuro Rehab,24,4332.31,70.88
+Dawn Jenkins,Ortho Rehab,25,4302.97,71.92
+Christopher Allen,Pediatric,29,4301.96,68.0
+Tina Irwin,Sports Rehab,25,4282.01,64.76
+Calvin Maynard,Neuro Rehab,26,4269.79,68.58
+Jeffrey Alexander,Pediatric,26,4260.11,67.88
+Rebecca Livingston,Ortho Rehab,24,4243.6,71.33
+Traci Holloway,Ortho Rehab,27,4240.06,76.93
+Kelly Knapp,Ortho Rehab,23,4222.25,66.26
+Joanna Brown,Ortho Rehab,26,4222.2,69.46
+Jason Zhang,Sports Rehab,25,4208.98,63.96
+Bryan Bennett,Pediatric,26,4205.49,68.85
+Carrie Woods,Pediatric,25,4202.88,71.8
+Gina Jenkins,Sports Rehab,26,4193.5,70.81
+Parker Mcmahon,Pediatric,26,4184.42,68.0
+Colton Freeman,Sports Rehab,26,4175.53,67.42
+Scott Castillo,Neuro Rehab,26,4131.3,67.85
+Desiree Reilly,Sports Rehab,25,4131.16,69.12
+Shelia Matthews,Ortho Rehab,25,4123.96,61.8
+Justin Medina,Pediatric,25,4103.53,71.48
+James Smith,Sports Rehab,24,4091.98,76.58
+Brandy Wilson,Neuro Rehab,23,4091.67,74.78
+Cody Griffin,Pediatric,28,4087.74,68.61
+Christian Tyler,Pediatric,26,4056.2,67.42
+Scott Moore,Neuro Rehab,25,4046.69,68.04
+Angela Brady,Sports Rehab,23,4041.8,75.61
+Alexandra Campbell,Neuro Rehab,24,4039.26,72.25
+Jeffrey Mann,Sports Rehab,22,4032.13,68.68
+David Green,Neuro Rehab,23,4031.48,74.13
+Amanda Carlson,Neuro Rehab,24,4025.97,69.5
+Phillip Johnson,Neuro Rehab,24,4017.02,70.88
+Joseph Brown,Sports Rehab,23,4014.93,68.35
+Nancy Gordon,Ortho Rehab,25,3992.65,67.4
+Victoria Walker,Ortho Rehab,24,3986.3,66.88
+Sara Jenkins,Neuro Rehab,25,3982.92,67.16
+Douglas Stout,Sports Rehab,23,3971.19,74.0
+Jennifer Howard,Pediatric,28,3964.63,75.93
+Carla Wu,Sports Rehab,23,3961.15,70.96
+George Scott,Neuro Rehab,22,3949.25,65.91
+Fernando Williams,Neuro Rehab,28,3943.2,66.18
+Brandon Campbell,Pediatric,23,3936.92,68.91
+Mr. Gary Shaw,Ortho Rehab,22,3903.98,72.77
+Amanda Lopez,Ortho Rehab,26,3899.81,70.42
+Megan Garner,Pediatric,25,3897.77,74.72
+Jason Brown,Sports Rehab,22,3891.06,67.5
+Jacqueline Dennis,Ortho Rehab,24,3889.5,68.92
+Debbie Smith,Ortho Rehab,22,3883.77,69.41
+Kimberly Martinez,Ortho Rehab,21,3855.34,79.52
+Ralph Campbell,Ortho Rehab,20,3823.12,67.15
+Jacqueline Chung,Sports Rehab,25,3822.39,64.88
+Andrew Stevenson,Ortho Rehab,23,3814.27,67.91
+Devin Morales,Sports Rehab,24,3807.88,75.96
+Dr. Jessica Knight,Pediatric,22,3793.61,69.41
+Christopher Pierce,Sports Rehab,23,3791.25,75.09
+Cynthia Brown,Sports Rehab,25,3773.11,72.4
+Candice Daniel,Pediatric,23,3765.12,74.78
+Scott Shaw,Ortho Rehab,21,3760.0,70.62
+Pamela Lawson,Neuro Rehab,22,3752.6,71.41
+Elizabeth Johnson,Neuro Rehab,22,3745.53,69.73
+Cindy Johnson,Pediatric,23,3729.34,74.35
+Rachel Evans,Ortho Rehab,25,3706.46,72.88
+Chad Dawson,Sports Rehab,21,3697.06,67.38
+James Gomez,Pediatric,20,3684.75,72.8
+Sarah Garcia,Sports Rehab,22,3681.35,71.5
+Kimberly Blackwell,Pediatric,25,3674.93,65.76
+Carolyn Boyd,Pediatric,23,3671.1,65.65
+James Villarreal,Neuro Rehab,20,3666.96,70.3
+Cory Mcdonald,Sports Rehab,20,3652.27,70.45
+Nathan Davis,Pediatric,22,3651.03,68.95
+Joshua Fernandez,Pediatric,23,3635.53,70.52
+Kimberly Savage,Sports Rehab,23,3633.44,67.78
+Mark Terry,Sports Rehab,24,3629.91,69.42
+James Simpson,Neuro Rehab,22,3607.41,78.41
+Christopher Jones,Neuro Rehab,21,3586.88,69.67
+Steven Parker,Pediatric,22,3579.24,81.14
+Patrick Montgomery,Pediatric,22,3566.15,70.09
+Jesse Haley,Neuro Rehab,22,3564.31,70.59
+Patricia Medina,Pediatric,21,3549.48,71.9
+Sharon Lee,Pediatric,20,3538.72,75.1
+Carolyn Horne,Ortho Rehab,24,3531.65,72.71
+Martha Brown,Pediatric,21,3528.2,69.95
+Brooke Turner,Pediatric,20,3487.4,71.25
+Timothy Gill,Pediatric,24,3462.12,69.04
+Justin Williams,Neuro Rehab,22,3459.77,70.0
+Diane Yu,Ortho Rehab,23,3456.01,69.65
+Mason Parrish,Pediatric,24,3440.17,69.08
+Christopher Ramos,Ortho Rehab,22,3423.49,68.5
+Deborah Bryant,Pediatric,22,3415.13,67.86
+Connie Castillo,Ortho Rehab,20,3379.54,72.3
+Timothy Roberts,Neuro Rehab,19,3348.41,70.74
+Mary Fleming,Sports Rehab,21,3326.21,64.67
+Darrell Kaufman,Sports Rehab,20,3289.29,67.2
+Brian Higgins,Pediatric,21,3287.82,69.38
+Diane Thomas,Ortho Rehab,23,3287.57,67.91
+Dana Vargas,Neuro Rehab,22,3286.52,71.64
+Joseph Stevenson,Neuro Rehab,19,3264.65,67.53
+John Mendez,Ortho Rehab,20,3262.04,72.8
+Terri Thomas,Neuro Rehab,19,3251.81,67.79
+Joseph Young,Pediatric,24,3251.13,67.5
+Dr. Steven Bailey,Pediatric,19,3181.94,71.32
+Denise Kelley,Ortho Rehab,19,3180.9,62.95
+Joyce Lawson DVM,Neuro Rehab,18,3093.28,71.22
+Stacey Ayers,Neuro Rehab,18,3050.28,65.78
+Donna Martin,Neuro Rehab,18,3004.67,63.06
+David Vazquez,Neuro Rehab,18,2972.7,69.67
+Stephanie Wong,Pediatric,19,2969.82,69.74
+Tonya Guzman,Ortho Rehab,18,2958.72,71.5
+Shirley Barnes,Sports Rehab,16,2950.94,70.06
+Willie Garcia,Pediatric,15,2904.64,76.73
+Jennifer Perez,Sports Rehab,19,2902.02,67.84
+Stephanie Torres,Neuro Rehab,17,2872.98,69.12
+Sandra Alexander,Neuro Rehab,17,2844.53,68.0
+Zoe Turner,Ortho Rehab,19,2819.48,73.21
+Joshua Hansen,Sports Rehab,20,2816.9,64.75
+Lindsay Martin,Sports Rehab,16,2811.96,63.31
+Matthew Jackson,Ortho Rehab,16,2764.17,64.13
+Mary Garcia,Pediatric,17,2725.98,72.71
+Brandon Smith,Pediatric,17,2634.41,63.94
+Ruth Conrad,Neuro Rehab,18,2628.42,67.17
+Deborah Russell,Sports Rehab,14,2586.32,66.43
+Christina Neal,Ortho Rehab,14,2579.46,64.29
+Katie Morrison,Neuro Rehab,15,2526.85,73.87
+Allison Graham,Sports Rehab,15,2415.59,64.2
+Christopher Kennedy,Neuro Rehab,13,2190.11,66.69
